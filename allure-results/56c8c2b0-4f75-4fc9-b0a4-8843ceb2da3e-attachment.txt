@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//*[contains(@class, \"modal-title\") and normalize-space(text()) = \" Tast postnummer for levering\"] | .//*[contains(@class, \"modal-title\") and not(.//*[contains(@class, \"modal-title\") and normalize-space(text()) = \" Tast postnummer for levering\"]) and normalize-space() = \" Tast postnummer for levering\"]"
+}
