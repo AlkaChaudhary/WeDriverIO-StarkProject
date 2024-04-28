@@ -1,3 +1,6 @@
+
+![Screenshot 2024-04-28 at 14 17 00](https://github.com/AlkaChaudhary/WeDriverIO-StarkProject/assets/87438786/0f063162-1017-46ab-8dfa-7893ecb08a56)
+
 # Stark Project Automation through WebDriverIO
 This Project is about Automating the process by user going to Stark website and adding item to the basket then go to purchase detail page then deliver detail page and add mandatory fields then go to Summary page and click on Payment option.
 
