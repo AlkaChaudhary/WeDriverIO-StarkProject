@@ -36,3 +36,8 @@ Run all tests in the folder configured in wdio.conf.js npx wdio run wdio.conf.js
 or
 
 npm run wdio
+
+## Code
+![Screenshot 2024-05-03 at 19 36 43](https://github.com/AlkaChaudhary/WeDriverIO-StarkProject/assets/87438786/ba94ad89-4455-4ff4-89cb-f3475069a252)
+
+
