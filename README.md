@@ -37,7 +37,7 @@ or
 
 npm run wdio
 
-## Code
-![Screenshot 2024-05-03 at 19 36 43](https://github.com/AlkaChaudhary/WeDriverIO-StarkProject/assets/87438786/ba94ad89-4455-4ff4-89cb-f3475069a252)
+## Demo
 
 
+[screen-capture.webm](https://github.com/AlkaChaudhary/WeDriverIO-StarkProject/assets/87438786/de9af9b8-4a51-4259-bd70-c8c7c73b86a9)
